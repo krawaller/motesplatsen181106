@@ -1,0 +1,12 @@
+{
+  "rules": {
+    ".read": true,
+    "comments": {
+      "$page": {
+        "$comment": {
+          ".write": "!data.exists() && newData.child('name').val() === auth.token.email"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bad-words": "^3.0.0",
+    "firebase-admin": "^6.1.0",
+    "firebase-functions": "^2.1.0"
+  }
+}

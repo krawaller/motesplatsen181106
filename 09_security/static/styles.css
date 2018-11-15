@@ -1,0 +1,27 @@
+body {
+  background-color: bisque;
+}
+
+body > div {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 > span {
+  font-weight: normal;
+  font-size: 12px;
+}
+
+img {
+  max-width: 500px;
+}
+
+input:disabled {
+  background-color: #ccc;
+}

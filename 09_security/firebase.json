@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "output"
+  },
+  "functions": {
+    "source": "functions"
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}

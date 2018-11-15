@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "front-matter": "^3.0.1",
+    "fs-extra": "^7.0.0",
+    "marked": "^0.5.1"
+  },
+  "scripts": {
+    "generate": "node generate"
+  }
+}
